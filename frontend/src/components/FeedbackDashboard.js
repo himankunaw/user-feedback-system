@@ -126,11 +126,6 @@ const FeedbackDashboard = ({ feedbackList: propsFeedbackList, isLoading: propsIs
           error={error}
         />
       </div>
-      {/* <FeedbackList 
-        feedback={filteredFeedback}
-        isLoading={isLoading}
-        error={error}
-      /> */}
     </div>
   );
 };

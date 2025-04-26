@@ -45,9 +45,6 @@ const FeedbackList = ({ feedback, isLoading, error }) => {
             <div className="full-content">
               <div className="detail-meta">
                 <span className="email">{item.email}</span>
-                {/* <span className="timestamp">
-                  {new Date(item.createdAt).toLocaleString()}
-                </span> */}
               </div>
               <p>{item.feedbackText}</p>
             </div>
