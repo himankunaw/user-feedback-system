@@ -31,7 +31,7 @@ A full-stack application that allows users to submit feedback and displays colle
 #### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:himankunaw/user-feedback-system.git
 cd user-feedback-system
 ```
 ---
@@ -72,7 +72,7 @@ npm start
 
 #### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone git@github.com:himankunaw/user-feedback-system.git
 cd user-feedback-system
 ```
 ---
